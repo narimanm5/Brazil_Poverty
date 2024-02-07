@@ -12,12 +12,15 @@ About Dataset
 This dataset contains data from 2020 on more than 20,000 Brazilian individuals and their characteristic
 
 Meaning of dataset variables:
+
 woman:
 1 - female
 0 - male
 
 age: person's age
+
 education:
+
 1 - No education and less than 1 year of study
 2 - Incomplete elementary or equivalent
 3 - Complete fundamental or equivalent
@@ -27,6 +30,7 @@ education:
 7 - Superior complete
 
 work:
+
 1 - Agriculture, livestock, forestry, fisheries and aquaculture
 2 - General industry
 3 - Construction
@@ -41,22 +45,27 @@ work:
 12 - Ill-defined activities
 
 metropolitan_area
+
 1 - lives in metropolitan region
 0 - does not live in a metropolitan region
 
 not_white
+
 1 - not white (black, brown, yellow and indigenous)
 0 - white
 
 urban
+
 1 -lives in urban areas
 0 - I live in the countryside
 
 work permit
+
 0 - does not have a work permit
 1 - has a work permit
 2 - other situations, employer, civil servant
 
 poverty: individuals who received less than BRL 457 in 2020
+
 1 - was poor in 2020 interview
 0 - not poor in 2020 interview
